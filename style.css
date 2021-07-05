@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(130, 245, 254);
+}
+
+#family_img {
+    height: 500px;
+}
+
+button {
+    font-size: 30px;
+}
